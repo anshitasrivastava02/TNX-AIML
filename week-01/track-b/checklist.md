@@ -14,7 +14,7 @@ real numpy + matplotlib analysis.
 
 ## Sunday 4 Oct 2026 — Setup + foundations check
 
-- [ ] **Install Python 3.12+ and verify** — confirm with `python --version`. Why it matters: libraries next week need a recent, consistent interpreter.
+- [x] **Install Python 3.12+ and verify** — confirm with `python --version`. Why it matters: libraries next week need a recent, consistent interpreter.
   - https://www.python.org/downloads/
 - [ ] **Set up a simple project folder** — a folder with `src/`, a data folder, and a `README.md`, plus a `.gitignore` for `__pycache__` and `.env`. Why it matters: you will reuse this layout for every week.
   - https://docs.python.org/3/library/venv.html
