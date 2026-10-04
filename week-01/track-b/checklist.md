@@ -16,12 +16,12 @@ real numpy + matplotlib analysis.
 
 - [x] **Install Python 3.12+ and verify** — confirm with `python --version`. Why it matters: libraries next week need a recent, consistent interpreter.
   - https://www.python.org/downloads/
-- [ ] **Set up a simple project folder** — a folder with `src/`, a data folder, and a `README.md`, plus a `.gitignore` for `__pycache__` and `.env`. Why it matters: you will reuse this layout for every week.
+- [x] **Set up a simple project folder** — a folder with `src/`, a data folder, and a `README.md`, plus a `.gitignore` for `__pycache__` and `.env`. Why it matters: you will reuse this layout for every week.
   - https://docs.python.org/3/library/venv.html
-- [ ] **Create a virtual environment and confirm it works** — `python -m venv .venv`, activate it, and check `pip --version`. Why it matters: every project needs an isolated place for packages.
+- [x] **Create a virtual environment and confirm it works** — `python -m venv .venv`, activate it, and check `pip --version`. Why it matters: every project needs an isolated place for packages.
   - https://docs.python.org/3/library/venv.html
   - https://pip.pypa.io/en/stable/getting-started/
-- [ ] **Quick foundations check** — write a small script that uses a list, a loop, a conditional, and a function, and confirm it runs. Why it matters: it proves you have the base you need before we add new ideas.
+- [x] **Quick foundations check** — write a small script that uses a list, a loop, a conditional, and a function, and confirm it runs. Why it matters: it proves you have the base you need before we add new ideas.
   - **Deliverable:** your workspace folder with a working test script.
 
 ## Monday 5 Oct 2026 — Object-oriented programming
